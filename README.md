@@ -210,3 +210,24 @@ print(f"Nós: {info['nodes']}")
 | **Lote** | TED múltiplas NF-es | `Conciliado_Lote` |
 | **Parcela** | 1ª parcela de 3x | `Conciliado_Parcial` |
 | **Divergência** | Diferença de data/valor | `Conciliado_Com_Ressalva` |
+
+## 🧠 Metodologia de Conciliação
+
+### Propósito e Funcionamento
+O ConciliadorBancarioAgent opera em fluxo paralelo/assíncrono, processando extratos bancários e identificando transações que correspondem aos lançamentos contábeis gerados. Utiliza técnicas de fuzzy matching para associar descrições bancárias com documentos fiscais processados.
+
+### Algoritmo de Conciliação
+
+#### Critérios de Matching
+- **Fuzzy matching na descrição da transação**: Score de similaridade textual usando algoritmos de distância de strings
+- **Busca por valor com tolerância configurável**: Tolerância de 5% ou R$ 50,00 para compensar diferenças de arredondamento
+- **Janela temporal para correspondência de datas**: Busca em uma janela de 7 dias para acomodar diferenças de processamento
+- **Validação cruzada com contas a pagar/receber**: Verificação de consistência com o fluxo financeiro esperado
+- **Scoring de confiança da conciliação**: Algoritmo ponderado que combina score textual, proximidade de valor e data
+
+#### Processo de Classificação
+1. **Identificação do tipo de transação**: Taxa bancária, lote, normal, retenção ou parcela
+2. **Cálculo de matching score**: Combinação ponderada de critérios textuais, valor e data
+3. **Validação de regras de negócio**: Verificação de coerência financeira e fiscal
+4. **Processamento especializado**: Tratamento específico para cada tipo identificado
+5. **Geração de resultado**: Output estruturado com status e observações detalhadas
