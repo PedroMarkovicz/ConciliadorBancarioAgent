@@ -2,6 +2,8 @@
 
 Sistema de conciliação bancária automatizada para documentos fiscais usando IA, baseado na arquitetura **LangGraph** com workflow modular.
 
+https://github.com/user-attachments/assets/b107280b-19e7-4dfc-8410-f3af792d20c6
+
 ## 🚀 Como Executar
 
 ### Instalação
