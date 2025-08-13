@@ -1,0 +1,702 @@
+[
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-09",
+      "valor_transacao": 8624.42,
+      "descricao_transacao": "PGTO SERVICO GHI TRANSPORTES LTDA LIQ NF 911753",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "001-86631-8",
+      "codigo_banco": "001",
+      "impostos_retidos": {
+        "irrf": 143.18,
+        "pis": 62.05,
+        "cofins": 286.37,
+        "csll": 95.46,
+        "iss": 334.1
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 911753",
+      "cfop": "1202",
+      "data_documento": "2025-08-09",
+      "valor_total": 9545.58,
+      "parceiro_nome": "GHI TRANSPORTES LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 143.18,
+        "pis": 62.05,
+        "cofins": 286.37,
+        "csll": 95.46,
+        "iss": 334.1
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-28",
+      "valor_transacao": 6050.14,
+      "descricao_transacao": "PGTO SERVICO DEF SERVICOS EIRELI LIQ NF 481380",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "341-45728-5",
+      "codigo_banco": "341",
+      "impostos_retidos": {
+        "irrf": 100.45,
+        "pis": 43.53,
+        "cofins": 200.89,
+        "csll": 66.96,
+        "iss": 234.37
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 481380",
+      "cfop": "1102",
+      "data_documento": "2025-07-28",
+      "valor_total": 6696.34,
+      "parceiro_nome": "DEF SERVICOS EIRELI",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 100.45,
+        "pis": 43.53,
+        "cofins": 200.89,
+        "csll": 66.96,
+        "iss": 234.37
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-05",
+      "valor_transacao": 8326.82,
+      "descricao_transacao": "PGTO SERVICO ABC COMERCIO LTDA LIQ NF 104754",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "001-80105-4",
+      "codigo_banco": "001",
+      "impostos_retidos": {
+        "irrf": 138.24,
+        "pis": 59.91,
+        "cofins": 276.49,
+        "csll": 92.16,
+        "iss": 322.57
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 104754",
+      "cfop": "2102",
+      "data_documento": "2025-08-05",
+      "valor_total": 9216.19,
+      "parceiro_nome": "ABC COMERCIO LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 138.24,
+        "pis": 59.91,
+        "cofins": 276.49,
+        "csll": 92.16,
+        "iss": 322.57
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-22",
+      "valor_transacao": 2142.99,
+      "descricao_transacao": "PGTO SERVICO DEF SERVICOS EIRELI LIQ NF 795339",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "237-48062-3",
+      "codigo_banco": "237",
+      "impostos_retidos": {
+        "irrf": 35.58,
+        "pis": 15.42,
+        "cofins": 71.16,
+        "csll": 23.72,
+        "iss": 83.02
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 795339",
+      "cfop": "1202",
+      "data_documento": "2025-07-22",
+      "valor_total": 2371.89,
+      "parceiro_nome": "DEF SERVICOS EIRELI",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 35.58,
+        "pis": 15.42,
+        "cofins": 71.16,
+        "csll": 23.72,
+        "iss": 83.02
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-08",
+      "valor_transacao": 1135.06,
+      "descricao_transacao": "PGTO SERVICO GHI TRANSPORTES LTDA LIQ NF 641395",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "104-81003-8",
+      "codigo_banco": "104",
+      "impostos_retidos": {
+        "irrf": 18.84,
+        "pis": 8.17,
+        "cofins": 37.69,
+        "csll": 12.56,
+        "iss": 43.97
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 641395",
+      "cfop": "2102",
+      "data_documento": "2025-08-08",
+      "valor_total": 1256.29,
+      "parceiro_nome": "GHI TRANSPORTES LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 18.84,
+        "pis": 8.17,
+        "cofins": 37.69,
+        "csll": 12.56,
+        "iss": 43.97
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-11",
+      "valor_transacao": 1017.98,
+      "descricao_transacao": "PGTO SERVICO ABC COMERCIO LTDA LIQ NF 133004",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "341-74833-9",
+      "codigo_banco": "341",
+      "impostos_retidos": {
+        "irrf": 16.9,
+        "pis": 7.32,
+        "cofins": 33.8,
+        "csll": 11.27,
+        "iss": 39.43
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 133004",
+      "cfop": "1102",
+      "data_documento": "2025-08-11",
+      "valor_total": 1126.7,
+      "parceiro_nome": "ABC COMERCIO LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 16.9,
+        "pis": 7.32,
+        "cofins": 33.8,
+        "csll": 11.27,
+        "iss": 39.43
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-23",
+      "valor_transacao": 1283.56,
+      "descricao_transacao": "PGTO SERVICO XYZ INDUSTRIA SA LIQ NF 302522",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "104-40725-4",
+      "codigo_banco": "104",
+      "impostos_retidos": {
+        "irrf": 21.31,
+        "pis": 9.23,
+        "cofins": 42.62,
+        "csll": 14.21,
+        "iss": 49.72
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 302522",
+      "cfop": "1102",
+      "data_documento": "2025-07-23",
+      "valor_total": 1420.65,
+      "parceiro_nome": "XYZ INDUSTRIA SA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 21.31,
+        "pis": 9.23,
+        "cofins": 42.62,
+        "csll": 14.21,
+        "iss": 49.72
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-02",
+      "valor_transacao": 6378.15,
+      "descricao_transacao": "PGTO SERVICO DEF SERVICOS EIRELI LIQ NF 999502",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "033-46416-4",
+      "codigo_banco": "033",
+      "impostos_retidos": {
+        "irrf": 105.89,
+        "pis": 45.89,
+        "cofins": 211.78,
+        "csll": 70.59,
+        "iss": 247.08
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 999502",
+      "cfop": "2102",
+      "data_documento": "2025-08-02",
+      "valor_total": 7059.38,
+      "parceiro_nome": "DEF SERVICOS EIRELI",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 105.89,
+        "pis": 45.89,
+        "cofins": 211.78,
+        "csll": 70.59,
+        "iss": 247.08
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-27",
+      "valor_transacao": 4056.51,
+      "descricao_transacao": "PGTO SERVICO GHI TRANSPORTES LTDA LIQ NF 912682",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "033-42111-8",
+      "codigo_banco": "033",
+      "impostos_retidos": {
+        "irrf": 67.35,
+        "pis": 29.18,
+        "cofins": 134.69,
+        "csll": 44.9,
+        "iss": 157.14
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 912682",
+      "cfop": "1102",
+      "data_documento": "2025-07-27",
+      "valor_total": 4489.77,
+      "parceiro_nome": "GHI TRANSPORTES LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 67.35,
+        "pis": 29.18,
+        "cofins": 134.69,
+        "csll": 44.9,
+        "iss": 157.14
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-07",
+      "valor_transacao": 493.51,
+      "descricao_transacao": "PGTO SERVICO ABC COMERCIO LTDA LIQ NF 446106",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "237-84328-9",
+      "codigo_banco": "237",
+      "impostos_retidos": {
+        "irrf": 8.19,
+        "pis": 3.55,
+        "cofins": 16.39,
+        "csll": 5.46,
+        "iss": 19.12
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 446106",
+      "cfop": "2102",
+      "data_documento": "2025-08-07",
+      "valor_total": 546.22,
+      "parceiro_nome": "ABC COMERCIO LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 8.19,
+        "pis": 3.55,
+        "cofins": 16.39,
+        "csll": 5.46,
+        "iss": 19.12
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-15",
+      "valor_transacao": 2858.33,
+      "descricao_transacao": "PGTO SERVICO XYZ INDUSTRIA SA LIQ NF 731542",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "237-19412-5",
+      "codigo_banco": "237",
+      "impostos_retidos": {
+        "irrf": 47.45,
+        "pis": 20.56,
+        "cofins": 94.91,
+        "csll": 31.64,
+        "iss": 110.73
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 731542",
+      "cfop": "2102",
+      "data_documento": "2025-07-15",
+      "valor_total": 3163.62,
+      "parceiro_nome": "XYZ INDUSTRIA SA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 47.45,
+        "pis": 20.56,
+        "cofins": 94.91,
+        "csll": 31.64,
+        "iss": 110.73
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-14",
+      "valor_transacao": 1003.38,
+      "descricao_transacao": "PGTO SERVICO GHI TRANSPORTES LTDA LIQ NF 763078",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "341-32523-7",
+      "codigo_banco": "341",
+      "impostos_retidos": {
+        "irrf": 16.66,
+        "pis": 7.22,
+        "cofins": 33.32,
+        "csll": 11.11,
+        "iss": 38.87
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 763078",
+      "cfop": "2102",
+      "data_documento": "2025-07-14",
+      "valor_total": 1110.56,
+      "parceiro_nome": "GHI TRANSPORTES LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 16.66,
+        "pis": 7.22,
+        "cofins": 33.32,
+        "csll": 11.11,
+        "iss": 38.87
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-16",
+      "valor_transacao": 1429.82,
+      "descricao_transacao": "PGTO SERVICO ABC COMERCIO LTDA LIQ NF 893599",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "237-71143-8",
+      "codigo_banco": "237",
+      "impostos_retidos": {
+        "irrf": 23.74,
+        "pis": 10.29,
+        "cofins": 47.48,
+        "csll": 15.83,
+        "iss": 55.39
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 893599",
+      "cfop": "2102",
+      "data_documento": "2025-07-16",
+      "valor_total": 1582.55,
+      "parceiro_nome": "ABC COMERCIO LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 23.74,
+        "pis": 10.29,
+        "cofins": 47.48,
+        "csll": 15.83,
+        "iss": 55.39
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-30",
+      "valor_transacao": 894.32,
+      "descricao_transacao": "PGTO SERVICO ABC COMERCIO LTDA LIQ NF 411001",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "237-64750-9",
+      "codigo_banco": "237",
+      "impostos_retidos": {
+        "irrf": 14.85,
+        "pis": 6.43,
+        "cofins": 29.69,
+        "csll": 9.9,
+        "iss": 34.64
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 411001",
+      "cfop": "1202",
+      "data_documento": "2025-07-30",
+      "valor_total": 989.83,
+      "parceiro_nome": "ABC COMERCIO LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 14.85,
+        "pis": 6.43,
+        "cofins": 29.69,
+        "csll": 9.9,
+        "iss": 34.64
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-20",
+      "valor_transacao": 4544.99,
+      "descricao_transacao": "PGTO SERVICO ABC COMERCIO LTDA LIQ NF 733254",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "341-19508-0",
+      "codigo_banco": "341",
+      "impostos_retidos": {
+        "irrf": 75.46,
+        "pis": 32.7,
+        "cofins": 150.91,
+        "csll": 50.3,
+        "iss": 176.07
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 733254",
+      "cfop": "1102",
+      "data_documento": "2025-07-20",
+      "valor_total": 5030.43,
+      "parceiro_nome": "ABC COMERCIO LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 75.46,
+        "pis": 32.7,
+        "cofins": 150.91,
+        "csll": 50.3,
+        "iss": 176.07
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-03",
+      "valor_transacao": 2453.27,
+      "descricao_transacao": "PGTO SERVICO XYZ INDUSTRIA SA LIQ NF 562744",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "033-63081-2",
+      "codigo_banco": "033",
+      "impostos_retidos": {
+        "irrf": 40.73,
+        "pis": 17.65,
+        "cofins": 81.46,
+        "csll": 27.15,
+        "iss": 95.04
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 562744",
+      "cfop": "1202",
+      "data_documento": "2025-08-03",
+      "valor_total": 2715.3,
+      "parceiro_nome": "XYZ INDUSTRIA SA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 40.73,
+        "pis": 17.65,
+        "cofins": 81.46,
+        "csll": 27.15,
+        "iss": 95.04
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-20",
+      "valor_transacao": 3203.22,
+      "descricao_transacao": "PGTO SERVICO GHI TRANSPORTES LTDA LIQ NF 255961",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "033-70886-7",
+      "codigo_banco": "033",
+      "impostos_retidos": {
+        "irrf": 53.18,
+        "pis": 23.04,
+        "cofins": 106.36,
+        "csll": 35.45,
+        "iss": 124.09
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 255961",
+      "cfop": "1202",
+      "data_documento": "2025-07-20",
+      "valor_total": 3545.34,
+      "parceiro_nome": "GHI TRANSPORTES LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 53.18,
+        "pis": 23.04,
+        "cofins": 106.36,
+        "csll": 35.45,
+        "iss": 124.09
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-15",
+      "valor_transacao": 1394.73,
+      "descricao_transacao": "PGTO SERVICO XYZ INDUSTRIA SA LIQ NF 292316",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "033-64990-6",
+      "codigo_banco": "033",
+      "impostos_retidos": {
+        "irrf": 23.16,
+        "pis": 10.03,
+        "cofins": 46.31,
+        "csll": 15.44,
+        "iss": 54.03
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 292316",
+      "cfop": "2102",
+      "data_documento": "2025-07-15",
+      "valor_total": 1543.7,
+      "parceiro_nome": "XYZ INDUSTRIA SA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 23.16,
+        "pis": 10.03,
+        "cofins": 46.31,
+        "csll": 15.44,
+        "iss": 54.03
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-23",
+      "valor_transacao": 6466.06,
+      "descricao_transacao": "PGTO SERVICO XYZ INDUSTRIA SA LIQ NF 342048",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "341-13405-0",
+      "codigo_banco": "341",
+      "impostos_retidos": {
+        "irrf": 107.35,
+        "pis": 46.52,
+        "cofins": 214.7,
+        "csll": 71.57,
+        "iss": 250.48
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 342048",
+      "cfop": "2102",
+      "data_documento": "2025-07-23",
+      "valor_total": 7156.68,
+      "parceiro_nome": "XYZ INDUSTRIA SA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 107.35,
+        "pis": 46.52,
+        "cofins": 214.7,
+        "csll": 71.57,
+        "iss": 250.48
+      }
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-03",
+      "valor_transacao": 608.36,
+      "descricao_transacao": "PGTO SERVICO DEF SERVICOS EIRELI LIQ NF 361685",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "033-99920-5",
+      "codigo_banco": "033",
+      "impostos_retidos": {
+        "irrf": 10.1,
+        "pis": 4.38,
+        "cofins": 20.2,
+        "csll": 6.73,
+        "iss": 23.57
+      }
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 361685",
+      "cfop": "2102",
+      "data_documento": "2025-08-03",
+      "valor_total": 673.34,
+      "parceiro_nome": "DEF SERVICOS EIRELI",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "impostos_retidos": {
+        "irrf": 10.1,
+        "pis": 4.38,
+        "cofins": 20.2,
+        "csll": 6.73,
+        "iss": 23.57
+      }
+    }
+  }
+]

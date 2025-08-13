@@ -1,0 +1,422 @@
+[
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-05",
+      "valor_transacao": 1327.05,
+      "descricao_transacao": "PIX RECEBIDO XYZ INDUSTRIA SA REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "237-32606-7",
+      "codigo_banco": "237"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 5492",
+      "cfop": "6102",
+      "data_documento": "2025-07-19",
+      "valor_total": 2157.64,
+      "parceiro_nome": "XYZ INDUSTRIA SA",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-20",
+      "valor_transacao": 9217.24,
+      "descricao_transacao": "PIX RECEBIDO ABC COMERCIO LTDA REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "104-13242-1",
+      "codigo_banco": "104"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 3978",
+      "cfop": "5933",
+      "data_documento": "2025-06-20",
+      "valor_total": 9338.97,
+      "parceiro_nome": "ABC COMERCIO LTDA",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-16",
+      "valor_transacao": 5857.7,
+      "descricao_transacao": "PIX RECEBIDO GHI TRANSPORTES LTDA REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "104-69236-0",
+      "codigo_banco": "104"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 3025",
+      "cfop": "5933",
+      "data_documento": "2025-07-27",
+      "valor_total": 6037.86,
+      "parceiro_nome": "GHI TRANSPORTES LTDA",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-25",
+      "valor_transacao": 2050.04,
+      "descricao_transacao": "PIX RECEBIDO ABC COMERCIO LTDA REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "104-12341-4",
+      "codigo_banco": "104"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 9089",
+      "cfop": "5933",
+      "data_documento": "2025-06-27",
+      "valor_total": 2422.44,
+      "parceiro_nome": "ABC COMERCIO LTDA",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-14",
+      "valor_transacao": 2925.5,
+      "descricao_transacao": "PIX RECEBIDO DEF SERVICOS EIRELI REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "033-20393-9",
+      "codigo_banco": "033"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 3209",
+      "cfop": "5933",
+      "data_documento": "2025-07-24",
+      "valor_total": 3476.9,
+      "parceiro_nome": "DEF SERVICOS EIRELI",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-18",
+      "valor_transacao": 3984.72,
+      "descricao_transacao": "PIX RECEBIDO GHI TRANSPORTES LTDA REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "104-43176-1",
+      "codigo_banco": "104"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 7580",
+      "cfop": "6102",
+      "data_documento": "2025-07-22",
+      "valor_total": 4190.3,
+      "parceiro_nome": "GHI TRANSPORTES LTDA",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-09",
+      "valor_transacao": 592.5,
+      "descricao_transacao": "PIX RECEBIDO GHI TRANSPORTES LTDA REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "033-77716-0",
+      "codigo_banco": "033"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 9239",
+      "cfop": "5102",
+      "data_documento": "2025-07-14",
+      "valor_total": 710.53,
+      "parceiro_nome": "GHI TRANSPORTES LTDA",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-13",
+      "valor_transacao": 430.5,
+      "descricao_transacao": "PIX RECEBIDO GHI TRANSPORTES LTDA REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "341-46175-7",
+      "codigo_banco": "341"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 2709",
+      "cfop": "5933",
+      "data_documento": "2025-07-24",
+      "valor_total": 1427.23,
+      "parceiro_nome": "GHI TRANSPORTES LTDA",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-28",
+      "valor_transacao": 8635.98,
+      "descricao_transacao": "PIX RECEBIDO ABC COMERCIO LTDA REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "033-98892-9",
+      "codigo_banco": "033"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 5636",
+      "cfop": "6102",
+      "data_documento": "2025-07-02",
+      "valor_total": 9071.19,
+      "parceiro_nome": "ABC COMERCIO LTDA",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-26",
+      "valor_transacao": 1065.49,
+      "descricao_transacao": "PIX RECEBIDO ABC COMERCIO LTDA REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "341-61448-8",
+      "codigo_banco": "341"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 4229",
+      "cfop": "5933",
+      "data_documento": "2025-06-28",
+      "valor_total": 1227.68,
+      "parceiro_nome": "ABC COMERCIO LTDA",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-19",
+      "valor_transacao": 7698.69,
+      "descricao_transacao": "PIX RECEBIDO DEF SERVICOS EIRELI REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "237-70994-2",
+      "codigo_banco": "237"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 5412",
+      "cfop": "5933",
+      "data_documento": "2025-06-19",
+      "valor_total": 8198.27,
+      "parceiro_nome": "DEF SERVICOS EIRELI",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-18",
+      "valor_transacao": 1476.24,
+      "descricao_transacao": "PIX RECEBIDO XYZ INDUSTRIA SA REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "237-43499-3",
+      "codigo_banco": "237"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 4721",
+      "cfop": "5933",
+      "data_documento": "2025-07-19",
+      "valor_total": 1784.56,
+      "parceiro_nome": "XYZ INDUSTRIA SA",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-19",
+      "valor_transacao": 356.7,
+      "descricao_transacao": "PIX RECEBIDO ABC COMERCIO LTDA REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "001-81635-9",
+      "codigo_banco": "001"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 5392",
+      "cfop": "6102",
+      "data_documento": "2025-07-06",
+      "valor_total": 924.77,
+      "parceiro_nome": "ABC COMERCIO LTDA",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-28",
+      "valor_transacao": 4350.48,
+      "descricao_transacao": "PIX RECEBIDO XYZ INDUSTRIA SA REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "341-80717-1",
+      "codigo_banco": "341"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 2462",
+      "cfop": "6102",
+      "data_documento": "2025-06-30",
+      "valor_total": 5018.13,
+      "parceiro_nome": "XYZ INDUSTRIA SA",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-02",
+      "valor_transacao": 9927.54,
+      "descricao_transacao": "PIX RECEBIDO XYZ INDUSTRIA SA REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "033-64930-1",
+      "codigo_banco": "033"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 6149",
+      "cfop": "5933",
+      "data_documento": "2025-07-22",
+      "valor_total": 10696.23,
+      "parceiro_nome": "XYZ INDUSTRIA SA",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-25",
+      "valor_transacao": 9463.01,
+      "descricao_transacao": "PIX RECEBIDO XYZ INDUSTRIA SA REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "001-90946-6",
+      "codigo_banco": "001"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 1375",
+      "cfop": "5933",
+      "data_documento": "2025-07-04",
+      "valor_total": 9678.11,
+      "parceiro_nome": "XYZ INDUSTRIA SA",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-14",
+      "valor_transacao": 152.17,
+      "descricao_transacao": "PIX RECEBIDO GHI TRANSPORTES LTDA REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "237-88400-5",
+      "codigo_banco": "237"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 4473",
+      "cfop": "6102",
+      "data_documento": "2025-07-22",
+      "valor_total": 979.84,
+      "parceiro_nome": "GHI TRANSPORTES LTDA",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-17",
+      "valor_transacao": 8427.27,
+      "descricao_transacao": "PIX RECEBIDO GHI TRANSPORTES LTDA REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "341-55792-4",
+      "codigo_banco": "341"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 1565",
+      "cfop": "5102",
+      "data_documento": "2025-07-29",
+      "valor_total": 8739.43,
+      "parceiro_nome": "GHI TRANSPORTES LTDA",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-28",
+      "valor_transacao": 2513.57,
+      "descricao_transacao": "PIX RECEBIDO DEF SERVICOS EIRELI REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "033-95050-3",
+      "codigo_banco": "033"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 1587",
+      "cfop": "5933",
+      "data_documento": "2025-06-28",
+      "valor_total": 3183.95,
+      "parceiro_nome": "DEF SERVICOS EIRELI",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-11",
+      "valor_transacao": 2108.34,
+      "descricao_transacao": "PIX RECEBIDO XYZ INDUSTRIA SA REF VENDA",
+      "tipo_transacao": "Crédito",
+      "conta_bancaria": "001-99451-7",
+      "codigo_banco": "001"
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 8519",
+      "cfop": "5933",
+      "data_documento": "2025-07-29",
+      "valor_total": 2684.69,
+      "parceiro_nome": "XYZ INDUSTRIA SA",
+      "natureza_operacao": "venda",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001"
+    }
+  }
+]

@@ -1,0 +1,622 @@
+[
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-11",
+      "valor_transacao": 29378.31,
+      "descricao_transacao": "TED PGTO LOTE GHI TRANSPORTES LTDA 8410 7855 9444",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "001-47291-0",
+      "codigo_banco": "001",
+      "documentos_do_lote": [
+        "NF-e 8410",
+        "NF-e 7855",
+        "NF-e 9444"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 6897",
+      "cfop": "1102",
+      "data_documento": "2025-08-11",
+      "valor_total": 29378.31,
+      "parceiro_nome": "GHI TRANSPORTES LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 8410",
+        "NF-e 7855",
+        "NF-e 9444"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-24",
+      "valor_transacao": 3226.29,
+      "descricao_transacao": "TED PGTO LOTE XYZ INDUSTRIA SA 6574 6791 6854",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "104-19211-4",
+      "codigo_banco": "104",
+      "documentos_do_lote": [
+        "NF-e 6574",
+        "NF-e 6791",
+        "NF-e 6854"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 6690",
+      "cfop": "1202",
+      "data_documento": "2025-07-24",
+      "valor_total": 3226.29,
+      "parceiro_nome": "XYZ INDUSTRIA SA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 6574",
+        "NF-e 6791",
+        "NF-e 6854"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-13",
+      "valor_transacao": 13541.1,
+      "descricao_transacao": "TED PGTO LOTE ABC COMERCIO LTDA 2502 4295 6334",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "341-48237-4",
+      "codigo_banco": "341",
+      "documentos_do_lote": [
+        "NF-e 2502",
+        "NF-e 4295",
+        "NF-e 6334"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 1708",
+      "cfop": "1202",
+      "data_documento": "2025-08-13",
+      "valor_total": 13541.1,
+      "parceiro_nome": "ABC COMERCIO LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 2502",
+        "NF-e 4295",
+        "NF-e 6334"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-17",
+      "valor_transacao": 11688.87,
+      "descricao_transacao": "TED PGTO LOTE DEF SERVICOS EIRELI 5890 7140 4712",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "104-14833-7",
+      "codigo_banco": "104",
+      "documentos_do_lote": [
+        "NF-e 5890",
+        "NF-e 7140",
+        "NF-e 4712"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 9678",
+      "cfop": "2102",
+      "data_documento": "2025-07-17",
+      "valor_total": 11688.87,
+      "parceiro_nome": "DEF SERVICOS EIRELI",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 5890",
+        "NF-e 7140",
+        "NF-e 4712"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-22",
+      "valor_transacao": 27335.04,
+      "descricao_transacao": "TED PGTO LOTE XYZ INDUSTRIA SA 2518 5991 2929",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "033-76774-3",
+      "codigo_banco": "033",
+      "documentos_do_lote": [
+        "NF-e 2518",
+        "NF-e 5991",
+        "NF-e 2929"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 4925",
+      "cfop": "1102",
+      "data_documento": "2025-07-22",
+      "valor_total": 27335.04,
+      "parceiro_nome": "XYZ INDUSTRIA SA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 2518",
+        "NF-e 5991",
+        "NF-e 2929"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-29",
+      "valor_transacao": 18691.77,
+      "descricao_transacao": "TED PGTO LOTE GHI TRANSPORTES LTDA 2243 6794 2090",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "341-27652-4",
+      "codigo_banco": "341",
+      "documentos_do_lote": [
+        "NF-e 2243",
+        "NF-e 6794",
+        "NF-e 2090"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 6683",
+      "cfop": "1102",
+      "data_documento": "2025-07-29",
+      "valor_total": 18691.77,
+      "parceiro_nome": "GHI TRANSPORTES LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 2243",
+        "NF-e 6794",
+        "NF-e 2090"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-21",
+      "valor_transacao": 20569.44,
+      "descricao_transacao": "TED PGTO LOTE XYZ INDUSTRIA SA 9377 8168 2291",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "001-67380-2",
+      "codigo_banco": "001",
+      "documentos_do_lote": [
+        "NF-e 9377",
+        "NF-e 8168",
+        "NF-e 2291"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 7768",
+      "cfop": "2102",
+      "data_documento": "2025-07-21",
+      "valor_total": 20569.44,
+      "parceiro_nome": "XYZ INDUSTRIA SA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 9377",
+        "NF-e 8168",
+        "NF-e 2291"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-13",
+      "valor_transacao": 27396.3,
+      "descricao_transacao": "TED PGTO LOTE DEF SERVICOS EIRELI 7406 1680 9810",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "001-42060-1",
+      "codigo_banco": "001",
+      "documentos_do_lote": [
+        "NF-e 7406",
+        "NF-e 1680",
+        "NF-e 9810"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 5084",
+      "cfop": "1202",
+      "data_documento": "2025-08-13",
+      "valor_total": 27396.3,
+      "parceiro_nome": "DEF SERVICOS EIRELI",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 7406",
+        "NF-e 1680",
+        "NF-e 9810"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-21",
+      "valor_transacao": 6097.74,
+      "descricao_transacao": "TED PGTO LOTE GHI TRANSPORTES LTDA 8643 4608 8060",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "033-28239-3",
+      "codigo_banco": "033",
+      "documentos_do_lote": [
+        "NF-e 8643",
+        "NF-e 4608",
+        "NF-e 8060"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 5646",
+      "cfop": "1102",
+      "data_documento": "2025-07-21",
+      "valor_total": 6097.74,
+      "parceiro_nome": "GHI TRANSPORTES LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 8643",
+        "NF-e 4608",
+        "NF-e 8060"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-08-10",
+      "valor_transacao": 2970.48,
+      "descricao_transacao": "TED PGTO LOTE DEF SERVICOS EIRELI 5875 6102 5037",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "001-75695-0",
+      "codigo_banco": "001",
+      "documentos_do_lote": [
+        "NF-e 5875",
+        "NF-e 6102",
+        "NF-e 5037"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 3775",
+      "cfop": "2102",
+      "data_documento": "2025-08-10",
+      "valor_total": 2970.48,
+      "parceiro_nome": "DEF SERVICOS EIRELI",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 5875",
+        "NF-e 6102",
+        "NF-e 5037"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-18",
+      "valor_transacao": 23193.57,
+      "descricao_transacao": "TED PGTO LOTE XYZ INDUSTRIA SA 3879 7001 9994",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "237-84118-4",
+      "codigo_banco": "237",
+      "documentos_do_lote": [
+        "NF-e 3879",
+        "NF-e 7001",
+        "NF-e 9994"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 5786",
+      "cfop": "2102",
+      "data_documento": "2025-07-18",
+      "valor_total": 23193.57,
+      "parceiro_nome": "XYZ INDUSTRIA SA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 3879",
+        "NF-e 7001",
+        "NF-e 9994"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-22",
+      "valor_transacao": 24980.43,
+      "descricao_transacao": "TED PGTO LOTE ABC COMERCIO LTDA 4826 5832 3651",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "237-82102-3",
+      "codigo_banco": "237",
+      "documentos_do_lote": [
+        "NF-e 4826",
+        "NF-e 5832",
+        "NF-e 3651"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 4479",
+      "cfop": "1202",
+      "data_documento": "2025-07-22",
+      "valor_total": 24980.43,
+      "parceiro_nome": "ABC COMERCIO LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 4826",
+        "NF-e 5832",
+        "NF-e 3651"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-23",
+      "valor_transacao": 16962.15,
+      "descricao_transacao": "TED PGTO LOTE GHI TRANSPORTES LTDA 4510 9877 4081",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "001-81204-4",
+      "codigo_banco": "001",
+      "documentos_do_lote": [
+        "NF-e 4510",
+        "NF-e 9877",
+        "NF-e 4081"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 3662",
+      "cfop": "1102",
+      "data_documento": "2025-07-23",
+      "valor_total": 16962.15,
+      "parceiro_nome": "GHI TRANSPORTES LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 4510",
+        "NF-e 9877",
+        "NF-e 4081"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-17",
+      "valor_transacao": 5708.37,
+      "descricao_transacao": "TED PGTO LOTE XYZ INDUSTRIA SA 3806 9332 7274",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "033-69634-1",
+      "codigo_banco": "033",
+      "documentos_do_lote": [
+        "NF-e 3806",
+        "NF-e 9332",
+        "NF-e 7274"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 7344",
+      "cfop": "1202",
+      "data_documento": "2025-07-17",
+      "valor_total": 5708.37,
+      "parceiro_nome": "XYZ INDUSTRIA SA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 3806",
+        "NF-e 9332",
+        "NF-e 7274"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-30",
+      "valor_transacao": 12644.16,
+      "descricao_transacao": "TED PGTO LOTE ABC COMERCIO LTDA 3608 2280 5345",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "237-34455-8",
+      "codigo_banco": "237",
+      "documentos_do_lote": [
+        "NF-e 3608",
+        "NF-e 2280",
+        "NF-e 5345"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 7633",
+      "cfop": "2102",
+      "data_documento": "2025-07-30",
+      "valor_total": 12644.16,
+      "parceiro_nome": "ABC COMERCIO LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 3608",
+        "NF-e 2280",
+        "NF-e 5345"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-14",
+      "valor_transacao": 5749.65,
+      "descricao_transacao": "TED PGTO LOTE DEF SERVICOS EIRELI 9235 5272 2852",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "001-70804-7",
+      "codigo_banco": "001",
+      "documentos_do_lote": [
+        "NF-e 9235",
+        "NF-e 5272",
+        "NF-e 2852"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 6230",
+      "cfop": "2102",
+      "data_documento": "2025-07-14",
+      "valor_total": 5749.65,
+      "parceiro_nome": "DEF SERVICOS EIRELI",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 9235",
+        "NF-e 5272",
+        "NF-e 2852"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-25",
+      "valor_transacao": 26386.02,
+      "descricao_transacao": "TED PGTO LOTE XYZ INDUSTRIA SA 5207 6957 4154",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "001-87998-8",
+      "codigo_banco": "001",
+      "documentos_do_lote": [
+        "NF-e 5207",
+        "NF-e 6957",
+        "NF-e 4154"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 7862",
+      "cfop": "1202",
+      "data_documento": "2025-07-25",
+      "valor_total": 26386.02,
+      "parceiro_nome": "XYZ INDUSTRIA SA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 5207",
+        "NF-e 6957",
+        "NF-e 4154"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-21",
+      "valor_transacao": 10990.05,
+      "descricao_transacao": "TED PGTO LOTE ABC COMERCIO LTDA 6204 1923 6982",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "237-84367-4",
+      "codigo_banco": "237",
+      "documentos_do_lote": [
+        "NF-e 6204",
+        "NF-e 1923",
+        "NF-e 6982"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 6832",
+      "cfop": "1102",
+      "data_documento": "2025-07-21",
+      "valor_total": 10990.05,
+      "parceiro_nome": "ABC COMERCIO LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 6204",
+        "NF-e 1923",
+        "NF-e 6982"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-17",
+      "valor_transacao": 1916.76,
+      "descricao_transacao": "TED PGTO LOTE ABC COMERCIO LTDA 2499 3495 6373",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "237-53723-3",
+      "codigo_banco": "237",
+      "documentos_do_lote": [
+        "NF-e 2499",
+        "NF-e 3495",
+        "NF-e 6373"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 5653",
+      "cfop": "2102",
+      "data_documento": "2025-07-17",
+      "valor_total": 1916.76,
+      "parceiro_nome": "ABC COMERCIO LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 2499",
+        "NF-e 3495",
+        "NF-e 6373"
+      ]
+    }
+  },
+  {
+    "transacao_bancaria": {
+      "data_transacao": "2025-07-17",
+      "valor_transacao": 7066.8,
+      "descricao_transacao": "TED PGTO LOTE ABC COMERCIO LTDA 2580 3857 1295",
+      "tipo_transacao": "Débito",
+      "conta_bancaria": "001-64646-1",
+      "codigo_banco": "001",
+      "documentos_do_lote": [
+        "NF-e 2580",
+        "NF-e 3857",
+        "NF-e 1295"
+      ]
+    },
+    "classificacao_disponivel": {
+      "numero_documento": "NF-e 9212",
+      "cfop": "1102",
+      "data_documento": "2025-07-17",
+      "valor_total": 7066.8,
+      "parceiro_nome": "ABC COMERCIO LTDA",
+      "natureza_operacao": "compra",
+      "contas_validadas": true,
+      "conta_debito": "1.1.3.01.0001",
+      "conta_credito": "3.1.1.02.0001",
+      "documentos_do_lote": [
+        "NF-e 2580",
+        "NF-e 3857",
+        "NF-e 1295"
+      ]
+    }
+  }
+]
